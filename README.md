@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with project ideas and development with Node.js 
 
 ### Connect with me:
-[Linkedin](https://www.linkedin.com/in/ahsen-turksoy)
+[LinkedIn](https://www.linkedin.com/in/ahsen-turksoy)
