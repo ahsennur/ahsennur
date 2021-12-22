@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Software Developer
+## Software Developer 😄
 
+- 🔭 I'm currenly working as a Software Developer
 - 🌱 I’m currently learning Node.js
-- 🤔 I’m looking for help with project ideas and development with Node.js 
+- ⚡ I love learning, trying new things out 
 
-### Connect with me:
+### 📫 Connect with me:
 [LinkedIn](https://www.linkedin.com/in/ahsen-turksoy)
