@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## Software Developer 😄
 
-- 🔭 I'm currenly working as a Software Developer
+- ✨ I'm currenly working as a software developer
 - 🌱 I’m currently learning Node.js
 - ⚡ I love learning, trying new things out 
 
