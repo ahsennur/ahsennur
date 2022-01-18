@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## Software Developer 😄
 
 - ✨ I'm currenly working as a software developer
 - 🌱 I’m currently learning Node.js
 - ⚡ I love learning, trying new things out 
-- -->
+-->
 
 <h1 align="center">Hi 👋, I'm Ahsen</h1>
 <h3 align="center">Software Developer</h3>
