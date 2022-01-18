@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 <h3 align="center">Software Developer</h3>
 
 - 🌱 I’m currently learning **Node.js**
+- ⚡ I love learning, trying new things out
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
